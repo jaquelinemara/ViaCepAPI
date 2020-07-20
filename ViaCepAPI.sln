@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViaCepAPI", "ViaCepAPI\ViaCepAPI.csproj", "{B074C10F-9F91-49EE-8768-84D564F578FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B074C10F-9F91-49EE-8768-84D564F578FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B074C10F-9F91-49EE-8768-84D564F578FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B074C10F-9F91-49EE-8768-84D564F578FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B074C10F-9F91-49EE-8768-84D564F578FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {001F2AD5-71D6-47FD-B3A6-F10D5A3774A6}
+	EndGlobalSection
+EndGlobal
